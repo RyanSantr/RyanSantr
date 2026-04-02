@@ -21,7 +21,7 @@
     <li> Aprendendo: <strong>Java, Node.js, C, Python</strong></li>
     <li> Procuro colaborar em: <strong>Projetos open source</strong></li>
     <li> Me pergunte sobre: <strong>anime, java, Python</strong></li>
-    <li>⚡ Fato curioso: <strong>Sou facinado por tecnologia e Coca-Cola! 🐧🥤</strong></li>
+    <li>Fato curioso: <strong>Sou facinado por tecnologia e Coca-Cola! 🐧🥤</strong></li>
   </ul>
   
   <h2>🛠️ Tech Stack</h2>
