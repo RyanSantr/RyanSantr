@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://tenor.com/p9FPNSvRtnh.gif" width="400">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
 </div>
