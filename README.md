@@ -12,7 +12,6 @@
 Name: Ryan Santos
 Computer Science student
 <br>Universidade Estadual do Paraná;
-
 <br>C, java;
 
 
