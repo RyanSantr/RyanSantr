@@ -1,17 +1,68 @@
+<!-- ============================================ -->
+<!-- HEADER COM GIF + JANELA DE TEXTO             -->
+<!-- ============================================ -->
+
+<table width="100%" border="0" cellpadding="15" cellspacing="0">
+  <tr>
+    
+    <!-- COLUDA DO GIF (LADO ESQUERDO) -->
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/RyanSantr/RyanSantr/456cdfb92795e7774aba4c6144fa72a2d3fbaade/ping%C3%BCino-coca-cola.gif" 
+           width="280" 
+           alt="Pingüim animado">
+      <br>
+      <em>🐧 Meu mascote pessoal</em>
+    </td>
+    
+    <!-- COLUNA DO TEXTO (LADO DIREITO) -->
+    <td width="60%" valign="top">
+      
+      <h1 align="center">✨ RyanSantr ✨</h1>
+      
+      <h3 align="center">🚀 Desenvolvedor Full Stack | 💻 Criador de Soluções | ☕ Amante de Café</h3>
+      
+      <hr>
+      
+      <h2>📌 Sobre mim</h2>
+      <ul>
+        <li>🔭 Atualmente trabalhando em: <strong>Projetos pessoais inovadores</strong></li>
+        <li>🌱 Aprendendo: <strong>React, Node.js e TypeScript</strong></li>
+        <li>👯 Procuro colaborar em: <strong>Projetos open source</strong></li>
+        <li>💬 Me pergunte sobre: <strong>Desenvolvimento web, JavaScript, Python</strong></li>
+        <li>⚡ Fato curioso: <strong>Amo pingüins e Coca-Cola! 🐧🥤</strong></li>
+      </ul>
+      
+      <h2>🛠️ Tech Stack</h2>
+      <p>
+        🟢 JavaScript • 🐍 Python • ⚛️ React • 📦 Node.js • 🎨 HTML/CSS • 🗄️ SQL
+      </p>
+      
+      <h2>📫 Como me encontrar</h2>
+      <p>
+        <a href="https://github.com/RyanSantr">🐙 GitHub: @RyanSantr</a><br>
+        <a href="https://linkedin.com/in/seu-perfil">💼 LinkedIn: RyanSantr</a><br>
+        📧 Email: ryan@exemplo.com
+      </p>
+      
+      <hr>
+      
+      <p align="center">
+        <i>"Transformando café em código ☕ → 💻"</i>
+      </p>
+      
+    </td>
+  </tr>
+</table>
+
+<!-- ============================================ -->
+<!-- ESPAÇO PARA VOCÊ ADICIONAR MAIS CONTEÚDO      -->
+<!-- ============================================ -->
+
+<br><br>
+
+<!-- A PARTIR DAQUI VOCÊ PODE COLOCAR SEUS OUTROS GIFS, ESTATÍSTICAS, ETC -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RyanSantr/RyanSantr/456cdfb92795e7774aba4c6144fa72a2d3fbaade/ping%C3%BCino-coca-cola.gif" width="20%">
+  <h2>📊 Minhas Estatísticas</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanSantr&show_icons=true&theme=dracula">
 </div>
-
-# About Me:
-Name: Ryan Santos
-Computer Science student
-<br>Universidade Estadual do Paraná;
-
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
-
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RyanSantr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RyanSantr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanSantr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
