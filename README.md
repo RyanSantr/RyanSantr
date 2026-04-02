@@ -15,8 +15,8 @@
   
   <h2>📌 Sobre mim</h2>
   <ul>
-    <li> Estudante de Ciencia Da Computação></li>
-    <li> Universidade Estadual Do Paraná></li>
+    <li> Estudante de Ciencia Da Computação </li>
+    <li> Universidade Estadual Do Paraná </li>
     <li>Atualmente trabalhando em: <strong>Projetos Pessoais</strong></li>
     <li> Aprendendo: <strong>Java, Node.js, C, Python</strong></li>
     <li> Procuro colaborar em: <strong>Projetos open source</strong></li>
