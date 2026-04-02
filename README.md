@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RyanSantr/RyanSantr/456cdfb92795e7774aba4c6144fa72a2d3fbaade/ping%C3%BCino-coca-cola.gif" width="40%">
+  <img src="https://raw.githubusercontent.com/RyanSantr/RyanSantr/456cdfb92795e7774aba4c6144fa72a2d3fbaade/ping%C3%BCino-coca-cola.gif" width="20%">
 </div>
 
 # About Me:
