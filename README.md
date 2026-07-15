@@ -6,9 +6,7 @@
 <div align="center">
 
   <!-- WALLPAPER: hatsune miku em pixel art cercada de mente.asm -->
-  <img src="./hero.svg" width="860" alt="hatsune miku">
-
-  <sub><code>ryan@arch:~$ ./vocaloid --id 01 & objdump -d mente.o</code></sub>
+  <img src="./hero.svg" width="900" alt="hatsune miku">
 
   <br><br>
 
