@@ -13,13 +13,6 @@
 </div>
 
 <br>
-
-```console
-ryan@arch:~$ gh stats --user RyanSantr | tee /dev/eles
-interceptando commits... ok
-os gráficos também estão sendo observados... ok
-```
-
 <br>
 
 <div align="center">
