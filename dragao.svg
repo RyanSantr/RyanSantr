@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="250" viewBox="0 0 380 250" xml:space="preserve">
+  <style>
+    text { font-family: ui-monospace, "Cascadia Code", "Fira Code", Consolas, Menlo, monospace; font-size: 15px; white-space: pre; }
+    .t11 { font-size: 11px; }
+    .gn { fill: #39ff14; }
+    .dim{ fill: #8b949e; }
+    .fy { fill: #ffd633; }
+    .fo { fill: #ff9d33; }
+    .fr { fill: #f85149; }
+    .bob { animation: bob 2.8s ease-in-out infinite alternate; }
+    @keyframes bob { to { transform: translateY(5px); } }
+    .eyeO { animation: eyeO 4s steps(1) infinite; }
+    .eyeC { opacity: 0; animation: eyeC 4s steps(1) infinite; }
+    @keyframes eyeO { 0%, 91% { opacity: 1; } 92%, 100% { opacity: 0; } }
+    @keyframes eyeC { 0%, 91% { opacity: 0; } 92%, 100% { opacity: 1; } }
+    .fA { animation: fA .5s steps(1) infinite; }
+    .fB { opacity: 0; animation: fB .5s steps(1) infinite; }
+    @keyframes fA { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes fB { 0%, 49% { opacity: 0; } 50%, 100% { opacity: 1; } }
+    .smk { animation: smk 2.4s linear infinite; }
+    .smk2 { animation: smk 2.4s linear 1.2s infinite; opacity: 0; }
+    @keyframes smk { 0% { transform: translateY(0); opacity: 0; } 30% { opacity: .7; } 100% { transform: translateY(-14px); opacity: 0; } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } 100% { opacity: 1; } }
+    .rn { fill: #39ff14; opacity: .16; font-size: 11px; }
+    .rain { animation-name: fall; animation-timing-function: linear; animation-iteration-count: infinite; }
+    @keyframes fall { from { transform: translateY(-40px); } to { transform: translateY(280px); } }
+  </style>
+
+  <defs>
+    <pattern id="scan2" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.14"/>
+    </pattern>
+    <clipPath id="corpo2"><rect x="2" y="29" width="376" height="219"/></clipPath>
+  </defs>
+
+  <!-- janela -->
+  <rect x="0" y="0" width="380" height="250" rx="10" fill="#0d1117"/>
+  <rect x="0" y="0" width="380" height="28" rx="10" fill="#161b22"/>
+  <rect x="0" y="18" width="380" height="10" fill="#161b22"/>
+  <line x1="0" y1="28" x2="380" y2="28" stroke="#30363d" stroke-width="1"/>
+  <circle cx="18" cy="14" r="5" fill="#ff5f56"/>
+  <circle cx="34" cy="14" r="5" fill="#ffbd2e"/>
+  <circle cx="50" cy="14" r="5" fill="#27c93f"/>
+  <text x="215" y="18" text-anchor="middle" class="dim t11">ryan@arch: ~/pets — ./dragao --fogo</text>
+
+  <!-- chuva de matrix -->
+  <g clip-path="url(#corpo2)">
+    <g class="rain" style="animation-duration:6.5s;animation-delay:-3s"><text x="22" y="0" class="rn">1<tspan x="22" dy="13">0</tspan><tspan x="22" dy="13">λ</tspan><tspan x="22" dy="13">7</tspan><tspan x="22" dy="13">#</tspan><tspan x="22" dy="13">0</tspan></text></g>
+    <g class="rain" style="animation-duration:5.2s;animation-delay:-1s"><text x="120" y="0" class="rn">0<tspan x="120" dy="13">ø</tspan><tspan x="120" dy="13">1</tspan><tspan x="120" dy="13">~</tspan><tspan x="120" dy="13">1</tspan></text></g>
+    <g class="rain" style="animation-duration:7.8s;animation-delay:-5s"><text x="205" y="0" class="rn">7<tspan x="205" dy="13">1</tspan><tspan x="205" dy="13">▲</tspan><tspan x="205" dy="13">0</tspan><tspan x="205" dy="13">λ</tspan><tspan x="205" dy="13">1</tspan></text></g>
+    <g class="rain" style="animation-duration:4.6s;animation-delay:-2.2s"><text x="290" y="0" class="rn">#<tspan x="290" dy="13">0</tspan><tspan x="290" dy="13">1</tspan><tspan x="290" dy="13">ø</tspan></text></g>
+    <g class="rain" style="animation-duration:6.9s;animation-delay:-4.4s"><text x="348" y="0" class="rn">λ<tspan x="348" dy="13">1</tspan><tspan x="348" dy="13">0</tspan><tspan x="348" dy="13">~</tspan><tspan x="348" dy="13">0</tspan></text></g>
+  </g>
+
+  <g class="bob">
+    <!-- fumaça -->
+    <text x="48" y="60" class="dim smk">                        ~ ~</text>
+    <text x="48" y="60" class="dim smk2">                         ~</text>
+
+    <!-- dragão -->
+    <text x="48" y="78"  class="gn">                  __</text>
+    <text x="48" y="97"  class="gn eyeO">                / o_)</text>
+    <text x="48" y="97"  class="gn eyeC">                / -_)</text>
+    <text x="48" y="116" class="gn">          /\   / /</text>
+    <text x="48" y="135" class="gn">         /  \_/ /</text>
+    <text x="48" y="154" class="gn">     ___/      /</text>
+    <text x="48" y="173" class="gn">    /   |    |</text>
+    <text x="48" y="192" class="gn"> __/    |    |</text>
+    <text x="48" y="211" class="gn">&lt;__..--'|_|--|_|</text>
+
+    <!-- fogo (2 quadros alternando) -->
+    <text x="48" y="97" class="fA">                      <tspan class="fy">≋</tspan><tspan class="fo">≋≋</tspan><tspan class="fr">≋</tspan><tspan>🔥</tspan></text>
+    <text x="48" y="97" class="fB">                       <tspan class="fo">≋</tspan><tspan class="fr">≋≋</tspan><tspan class="fy">≋≋</tspan><tspan>🔥</tspan></text>
+  </g>
+
+  <!-- legenda -->
+  <text x="20" y="236" class="dim t11">status: vigiando a porta 22 — nada entra sem ele ver</text>
+  <rect x="362" y="226" width="7" height="12" fill="#39ff14" style="animation:blink 1.1s steps(1) infinite"/>
+
+  <!-- scanlines -->
+  <rect x="2" y="29" width="376" height="219" fill="url(#scan2)"/>
+  <rect x=".5" y=".5" width="379" height="249" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
+</svg>
