@@ -11,10 +11,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RyanSantr&hide_border=true&theme=transparent&ring=6C7BFA&fire=FF5DB1&currStreakLabel=6C7BFA&sideLabels=B06DF5&currStreakNum=8B95B5&sideNums=8B95B5&dates=8B95B5&stroke=6C7BFA" alt="streak" />
-  <br><br>
-
 </div>
 
 <br>
