@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="./perfil.svg" width="880" alt="perfil de ryan santos — estudante de ciência da computação na unespar — em estilo terminal kawaii azul, ciano, rosa e roxo, com pixel art ao centro cercada de código assembly">
+  <img src="./perfil.svg" width="880" alt="perfil de ryan santos estudante de ciência da computação na unespar">
 
 </div>
 
