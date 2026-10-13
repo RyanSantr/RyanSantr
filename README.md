@@ -1,22 +1,17 @@
-<!-- ╔══════════════════════════════════════════════╗
-     ║  ryan@arch:~$ cat README.md                  ║
-     ║  ⟨ vocaloid_01 ⟩                             ║
-     ╚══════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-  <img src="./perfil.svg" width="880" alt="perfil de ryan santos estudante de ciência da computação na unespar">
-
-</div>
-
-<br>
-
-</div>
-
-<br>
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/RyanSantr">
-    <img src="https://img.shields.io/badge/GitHub-@RyanSantr-2f3da8?style=for-the-badge&logo=github&logoColor=FF8AC9" alt="GitHub">
+    <img src="./assets/perfil.gif" width="100%" alt="Ryan Santos — Ciência da Computação na Unespar. Arch Linux e bash. Projetos pessoais com Java, Node.js, C e Python. Perfil com cidade noturna em tons terrosos e personagem gótica animada." />
   </a>
-</div>
+</p>
+
+<details>
+  <summary>Sobre mim</summary>
+
+**Ryan Santos** · Ciência da Computação — Unespar
+
+- **Sistema:** Arch Linux · bash
+- **Foco:** projetos pessoais
+- **Tecnologias que estou explorando:** Java, Node.js, C e Python
+- **GitHub:** [RyanSantr](https://github.com/RyanSantr)
+
+</details>
