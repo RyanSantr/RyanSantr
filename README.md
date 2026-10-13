@@ -1,1 +1,1 @@
-<img src="./assets/perfil.svg?v=040e4eba0f6a" width="100%" alt="Perfil de Ryan Santos" />
+<img src="./assets/perfil.svg?v=449933ed0eb7" width="100%" alt="Perfil de Ryan Santos" />
