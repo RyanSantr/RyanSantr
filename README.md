@@ -1,17 +1,18 @@
 <p align="center">
   <a href="https://github.com/RyanSantr">
-    <img src="./assets/perfil.gif" width="100%" alt="Ryan Santos — Ciência da Computação na Unespar. Arch Linux e bash. Projetos pessoais com Java, Node.js, C e Python. Perfil com cidade noturna em tons terrosos e personagem gótica animada." />
+    <img src="./assets/perfil.svg" width="100%" alt="Ryan Santos — Ciência da Computação na Unespar. Arch Linux, bash e projetos pessoais. Aprendendo Java, Node.js, C e Python." />
   </a>
 </p>
 
 <details>
-  <summary>Sobre mim</summary>
+  <summary>Informações do perfil</summary>
 
 **Ryan Santos** · Ciência da Computação — Unespar
 
-- **Sistema:** Arch Linux · bash
+- **Sistema:** Arch Linux
+- **Shell:** bash
 - **Foco:** projetos pessoais
-- **Tecnologias que estou explorando:** Java, Node.js, C e Python
+- **Aprendendo:** Java, Node.js, C e Python
 - **GitHub:** [RyanSantr](https://github.com/RyanSantr)
 
 </details>
